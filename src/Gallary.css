@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding:0;
+    /* box-sizing: border-box; */
+}
+
+.gallary-container
+{
+  background-image: url('C:\Desktop\EMR\EMR webD2.0\gallary3.jpg');
+  /* background-image: url('https://img.theweek.in/content/dam/week/news/sci-tech/2019/June/camera-photographer-photo-technology-shut.jpg '); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left;
+  width: 100%;
+  background-attachment: fixed;
+  color: #091a2e;
+  background-color: #dbe2ef;
+  height: 100vh;
+  margin-right: 0px;
+}
+
+
+.home_content{
+
+    padding-top:30vh;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.home_heading-2{
+    display:flex;
+    width:100%;
+    color:rgb(65, 146, 77);
+    Justify-content: center;
+    align-items: center;
+    font-size: 12vh;
+    font-weight:900;
+
+}
+
+
+.home_heading-1{
+    display:flex;
+    width:100%;
+    color:rgb(166, 236, 181);
+    Justify-content: center;
+    align-items: center;
+    font-size: 8vh;
+    font-weight:500;
+  
+}
+
+
+
+
